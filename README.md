@@ -20,8 +20,6 @@
 -->
 
 ### ⚙️ &nbsp;GitHub Analytics
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=primocodetoday&hide=stars,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
 <a href="https://github.com/primocodetoday">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=primocodetoday&show_icons=true&theme=vue&include_all_commits=true&count_private=true" />
