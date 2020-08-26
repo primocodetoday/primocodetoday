@@ -2,7 +2,9 @@
 
 #### My name is Sebastian and I'm junior frontend developer.
 
-🌱 I’m currently learning Vue ecosystem
+- 🔭 I’m currently working on many small React and Vue projects with different use of API
+- 🌱 I’m currently learning Vue and I'am :heart: it
+- 💦 I'm sweating on 🏃 and 🚲
 
 <!--
 **primocodetoday/primocodetoday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
