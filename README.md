@@ -20,7 +20,6 @@
 ![Vuex](https://img.shields.io/badge/-Vuex-333333?style=flat&logo=vue.js)&nbsp;
 ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify)\
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=fff)&nbsp;
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=fff)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=fff)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
