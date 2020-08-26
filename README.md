@@ -17,4 +17,5 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=primocodetoday&hide=stars,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### ⚙️ &nbsp;GitHub Analytics
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=primocodetoday&hide=stars,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
