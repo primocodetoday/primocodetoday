@@ -10,12 +10,17 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=CSS3&logoColor=fff)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=CSS3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)\
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)&nbsp;
+![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby)&nbsp;
+![Next](https://img.shields.io/badge/-Next-000?style=flat&logo=next.js)\
 ![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)&nbsp;
+![Vuex](https://img.shields.io/badge/-Vuex-333333?style=flat&logo=vue.js)&nbsp;
+![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify)\
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=fff)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
