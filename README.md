@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on many small React and Vue projects with different use of API
 - 🌱 I’m currently learning Vue and I'am :heart: it
-- 📫 You can reach me on  &nbsp;<a href="https://www.linkedin.com/in/sebastianbieluczyk/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)</a>
-- 💦 I'm sweating on 🏃 and 🚲. Checkout my &nbsp;<a href="https://www.strava.com/athletes/21353226">![Strava](https://img.shields.io/badge/-Strava-FC4C02?style=flat&logo=strava&logoColor=fff)</a>
+- 📫 You can reach me on  &nbsp;<a href="https://www.linkedin.com/in/sebastianbieluczyk/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)</a>
+- 💦 I'm sweating on 🏃 and 🚲. Checkout my &nbsp;<a href="https://www.strava.com/athletes/21353226" target="_blank">![Strava](https://img.shields.io/badge/-Strava-FC4C02?style=flat&logo=strava&logoColor=fff)</a>
 
 ### 🛠 &nbsp;Tech Stack
 
