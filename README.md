@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on many small React and Vue projects with different use of API
 - 🌱 I’m currently learning JavaScript Algorithms
 - 📫 You can reach me on  &nbsp;<a href="https://www.linkedin.com/in/sebastianbieluczyk/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)</a>
+- I am also trying my hand at Codewars &nbsp;<a href="https://www.codewars.com/users/primocodetoday" target="_blank">![Codewars](https://www.codewars.com/users/primocodetoday/badges/small)</a>
 - 💦 I'm sweating on 🏃 and 🚲. Checkout my &nbsp;<a href="https://www.strava.com/athletes/21353226" target="_blank">![Strava](https://img.shields.io/badge/-Strava-FC4C02?style=flat&logo=strava&logoColor=fff)</a>
 
 ### 🛠 &nbsp;Tech Stack
@@ -32,19 +33,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?style=flat&logo=adobe-xd&logoColor=fff)&nbsp;
 
-
-<!--
-**primocodetoday/primocodetoday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on
-🌱 I’m currently learning Vue ecosystem
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
