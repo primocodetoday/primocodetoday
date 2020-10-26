@@ -32,7 +32,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?style=flat&logo=adobe-xd&logoColor=fff)&nbsp;
-![InVision](https://img.shields.io/badge/-invision-FF3366?style=flat&logo=InVision&logoColor=fff)&nbsp;
+![InVision](https://img.shields.io/badge/-InVision-FF3366?style=flat&logo=invision&logoColor=fff)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
