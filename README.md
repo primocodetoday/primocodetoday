@@ -12,7 +12,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=CSS3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=Jest)\
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)&nbsp;
@@ -32,6 +32,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?style=flat&logo=adobe-xd&logoColor=fff)&nbsp;
+![InVision](https://img.shields.io/badge/-invision-FF3366?style=flat&logo=InVision&logoColor=fff)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
