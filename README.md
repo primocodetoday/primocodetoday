@@ -41,4 +41,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=primocodetoday&show_icons=true&theme=vue&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=primocodetoday&layout=compact&theme=vue" /> 
 </a>
+<a href="https://wakatime.com/@Primoza">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Primoza" />
+</a>
 </p>
