@@ -2,7 +2,7 @@
 
 #### My name is Sebastian and I'm frontend developer.
 
-- 🔭 I’m currently working on many small projects with different use of API
+- 🔭 I am currently working at HRTEC coding one of the world's largest communication and human resource management applications.
 - 🌱 I’m currently learning backend in PHP with Laravel.
 - 🔁 I organize my work with Trello
 - 📫 You can reach me on  &nbsp;<a href="https://www.linkedin.com/in/sebastianbieluczyk/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)</a>
