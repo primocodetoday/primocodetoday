@@ -2,11 +2,11 @@
 
 #### My name is Sebastian and I'm frontend developer.
 
-- 🔭 I am currently working at [HRtec](https://www.hrtec.pl/), coding one of the world's largest application for human resource management and improvement of communication between employees.
-- 🌱 I’m currently learning backend in PHP with Laravel.
-- 🔁 I organize my work with Jira and Trello.
-- 📫 You can reach me on  &nbsp;<a href="https://www.linkedin.com/in/sebastianbieluczyk/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)</a>
-- 💦 I'm sweating on 🏃 and 🚲. Checkout my &nbsp;<a href="https://www.strava.com/athletes/21353226" target="_blank">![Strava](https://img.shields.io/badge/-Strava-FC4C02?style=flat&logo=strava&logoColor=fff)</a>
+- 🔭  I am currently working at [HRtec](https://www.hrtec.pl/), coding one of the world's largest application for human resource management and improvement of communication between employees.
+- 🌱  I’m currently learning backend in PHP with Laravel.
+- 🔁  I organize my work with Jira and Trello.
+- 📫  You can reach me on  &nbsp;<a href="https://www.linkedin.com/in/sebastianbieluczyk/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)</a>
+- 💦  I'm sweating on 🏃 and 🚲. Checkout my &nbsp;<a href="https://www.strava.com/athletes/21353226" target="_blank">![Strava](https://img.shields.io/badge/-Strava-FC4C02?style=flat&logo=strava&logoColor=fff)</a>
 
 ### 🛠 &nbsp;Tech Stack
 
