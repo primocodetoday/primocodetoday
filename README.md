@@ -35,6 +35,8 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?style=flat&logo=adobe-xd&logoColor=fff)&nbsp;
 ![InVision](https://img.shields.io/badge/-InVision-FF3366?style=flat&logo=invision&logoColor=fff)&nbsp;
 
+Total time spent coding [![wakatime](https://wakatime.com/badge/user/007d7d1f-8984-40f5-98ce-7ce206f3569b.svg)](https://wakatime.com/@007d7d1f-8984-40f5-98ce-7ce206f3569b)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
