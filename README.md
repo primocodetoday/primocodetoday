@@ -38,13 +38,18 @@
 Total time spent coding [![wakatime](https://wakatime.com/badge/user/007d7d1f-8984-40f5-98ce-7ce206f3569b.svg)](https://wakatime.com/@007d7d1f-8984-40f5-98ce-7ce206f3569b)
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 <p align="center">
-<a href="https://github.com/primocodetoday">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=primocodetoday&show_icons=true&theme=vue&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=primocodetoday&layout=compact&theme=vue" /> 
-</a>
-<a href="https://wakatime.com/@Primoza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Primoza" />
-</a>
+  <a href="https://github.com/primocodetoday">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=primocodetoday&show_icons=true&theme=vue&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=primocodetoday&layout=compact&theme=vue" /> 
+  </a>
+</p> 
+<p align="center">
+  <b>This week</b>
+</p> 
+<p align="center">
+  <a href="https://wakatime.com/@Primoza">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Primoza" />
+  </a>
 </p>
