@@ -37,9 +37,9 @@
 ### ⚙️ GitHub Analytics
 <p align="center">
   <a href="https://github.com/primocodetoday">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=primocodetoday&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=primocodetoday&layout=compact&theme=transparent" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=primocodetoday&" alt="primocodetoday" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=primocodetoday&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=primocodetoday&layout=compact&theme=algolia" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=primocodetoday&theme=algolia" alt="primocodetoday" />
   </a>
 </p> 
 <p align="center">
@@ -47,7 +47,7 @@
 </p> 
 <p align="center">
   <a href="https://wakatime.com/@Primoza">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Primoza" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Primoza&theme=algolia" />
   </a>
 </p>
 
