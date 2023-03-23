@@ -37,8 +37,8 @@
 ### ⚙️ GitHub Analytics
 <p align="center">
   <a href="https://github.com/primocodetoday">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=primocodetoday&show_icons=true&theme=vue&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=primocodetoday&layout=compact&theme=vue" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=primocodetoday&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=primocodetoday&layout=compact&theme=transparent" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=primocodetoday&" alt="primocodetoday" />
   </a>
 </p> 
