@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#### My name is Sebastian and I'm frontend developer.
+#### My name is Sebastian and I'm javascript developer.
 
-- 🔭  I am currently working at [HRtec](https://www.hrtec.pl/), coding one of the world's largest application for human resource management and improvement of communication between employees.
+- 🔭  I am currently working at [Symfonia](https://symfonia.pl/), coding one of the world's largest application for human resource management and improvement of communication between employees.
 - 🌱  I’m currently learning backend.
 - 🔁  I organize my work with Jira and Trello.
 - 📫  You can reach me on  &nbsp;<a href="https://www.linkedin.com/in/sebastianbieluczyk/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)</a>
