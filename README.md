@@ -42,9 +42,11 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=primocodetoday&theme=algolia" alt="primocodetoday" />
   </a>
 </p> 
-<p align="center">
+<div align="center">
   <b>Waka stats</b>
-</p> 
+  
+  <img align="center" src="https://wakatime.com/share/@Primoza/a48998ba-66f7-45a8-a939-b79cfbec46cd.png" />
+</div> 
 <p align="center">
   <a href="https://wakatime.com/@Primoza">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Primoza&theme=algolia&layout=compact" />
