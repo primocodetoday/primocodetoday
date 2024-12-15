@@ -43,11 +43,11 @@
   </a>
 </p> 
 <p align="center">
-  <b>This week</b>
+  <b>Waka stats</b>
 </p> 
 <p align="center">
   <a href="https://wakatime.com/@Primoza">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Primoza&theme=algolia" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Primoza&theme=algolia&layout=compact" />
   </a>
 </p>
 
