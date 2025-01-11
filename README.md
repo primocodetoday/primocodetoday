@@ -9,24 +9,26 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=CSS3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest)\
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)\
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#)
+[![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff)](#)
 ![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)&nbsp;
 ![Vuex](https://img.shields.io/badge/-Vuex-333333?style=flat&logo=vue.js)&nbsp;
 ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify)\
 ![Bulma](https://img.shields.io/badge/-Bulma-333333?style=flat&logo=bulma)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat&logo=storybook)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=prettier)\
-![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=phpstorm)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)\
+[![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)\
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd)&nbsp;
 ![InVision](https://img.shields.io/badge/-InVision-333333?style=flat&logo=invision)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
