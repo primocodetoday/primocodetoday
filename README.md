@@ -39,7 +39,7 @@ I'm a passionate full-stack developer with a strong focus on the JavaScript ecos
 [![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white)](#)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 
-[![wakatime](https://wakatime.com/badge/user/007d7d1f-8984-40f5-98ce-7ce206f3569b.svg)](https://wakatime.com/@007d7d1f-8984-40f5-98ce-7ce206f3569b)
+[![wakatime](https://wakatime.com/badge/user/007d7d1f-8984-40f5-98ce-7ce206f3569b.svg)](#)
 
 ### ⚙️ GitHub Analytics
 
