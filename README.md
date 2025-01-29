@@ -47,7 +47,7 @@ I'm a passionate full-stack developer with a strong focus on the JavaScript ecos
   <a href="https://github.com/primocodetoday">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=primocodetoday&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=primocodetoday&layout=compact&theme=algolia" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=primocodetoday&theme=algolia" alt="primocodetoday" />
+    <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=primocodetoday&theme=algolia" alt="primocodetoday" /> -->
   </a>
 </div>
 <div align="center">
